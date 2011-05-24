@@ -20,9 +20,9 @@ return array(
 		'type' => 'mysqli',
 		'host' => 'localhost',
 		'port' => '3307',
-		'user' => 'amal',
-		'mdp' => 'MNFDXp8a',
-		'base' => 'lorilee',
-		'socket' => '/tmp/mysql/lorilee.sock'
+		'user' => 'beckie',
+		'mdp' => 'dTuRaUhX',
+		'base' => 'latoria',
+		'socket' => '/tmp/mysql/latoria.sock'
 	)
 );
